@@ -1,0 +1,3 @@
+sch2hdl,-intstyle,ise,-family,spartan3e,-verilog,/home/hasith/development/subleqr2/alu.vf,-w,/home/hasith/development/subleqr2/alu.sch
+sch2hdl,-intstyle,ise,-family,spartan3e,-verilog,/home/hasith/development/subleqr2/sequencer.vf,-w,/home/hasith/development/subleqr2/sequencer.sch
+sch2hdl,-intstyle,ise,-family,spartan3e,-verilog,/home/hasith/development/subleqr2/subleq_core.vf,-w,/home/hasith/development/subleqr2/subleq_core.sch

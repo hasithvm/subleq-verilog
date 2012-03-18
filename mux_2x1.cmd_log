@@ -1,0 +1,4 @@
+vhdtdtfi -lib work /home/hasith/development/subleqr2/mux_2x1.v -lang verilog -prj subleqr2 -o mux_2x1.spl -module mux_2x1 -template /home/hasith/development/Xilinx/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e mux_2x1.spl /home/hasith/development/subleqr2/mux_2x1.sym 
+vhdtdtfi -lib work /home/hasith/development/subleqr2/mux_2x1.v -lang verilog -prj subleqr2 -o mux_2x1.spl -module mux_2x1 -template /home/hasith/development/Xilinx/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e -w mux_2x1.spl /home/hasith/development/subleqr2/mux_2x1.sym 

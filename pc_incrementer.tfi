@@ -1,0 +1,12 @@
+
+
+
+// Instantiate the module
+pc_incrementer instance_name (
+    .PC(PC), 
+    .CLK(CLK), 
+    .EN(EN), 
+    .PCout(PCout)
+    );
+
+

@@ -1,0 +1,37 @@
+ISim log file
+Running: /home/hasith/development/subleqr2/subleq_core_subleq_core_sch_tb_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb /home/hasith/development/subleqr2/subleq_core_subleq_core_sch_tb_isim_beh.wdb 
+ISim O.87xd (signature 0x8ddf5b5d)
+----------------------------------------------------------------------
+INFO:Security:61 - The XILINXD_LICENSE_FILE environment variable is not set.
+INFO:Security:63 - The LM_LICENSE_FILE environment variable is not set.
+INFO:Security:68 - For more information or for assistance in obtaining 
+ a license, please run the Xilinx License Configuration Manager
+       (xlcm or "Manage Xilinx Licenses".)
+INFO:Security:68a - user is hasith, on host unknown.
+ERROR:Security:14 - No feature was available for 'ISIM'.
+
+No such feature exists.
+Feature:       ISIM
+License path:  /home/hasith/.Xilinx/Xilinx.lic:/home/hasith/development/Xilinx/ISE_DS/ISE//data/*.lic:/home/hasith/development/Xilinx/ISE_DS/ISE//coregen/core_licenses/Xilinx.lic:/home/hasith/development/Xilinx/ISE_DS/ISE//coregen/core_licenses/XilinxFree.lic:
+FLEXnet Licensing error:-5,357
+For further information, refer to the FLEXnet Licensing documentation,
+available at "www.acresso.com".
+----------------------------------------------------------------------
+WARNING: A full ISim License cannot be checked out due to the issues listed above. Please use Xilinx License Configuration Manager to fix these issues in order to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+# restart
+# run 341.00ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+# run 341.00ns
+# restart
+# run 401.00ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.

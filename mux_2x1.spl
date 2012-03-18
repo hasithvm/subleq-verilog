@@ -1,0 +1,10 @@
+[Inputs]
+sel
+=A[7:0]=
+=B[7:0]=
+[Outputs]
+=out_port[7:0]=
+[BiDir]
+[ATTRIBUTES]
+VeriModel mux_2x1
+

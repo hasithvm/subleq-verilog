@@ -1,0 +1,8 @@
+vhdtdtfi -lib work /home/hasith/development/subleqr2/ireg_24.v -lang verilog -prj subleqr2 -o ireg_24.spl -module ireg_24 -template /home/hasith/development/Xilinx/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e -w ireg_24.spl /home/hasith/development/subleqr2/ireg_24.sym 
+vhdtdtfi -lib work /home/hasith/development/subleqr2/ireg_24.v -lang verilog -prj subleqr2 -o ireg_24.spl -module ireg_24 -template /home/hasith/development/Xilinx/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e -w ireg_24.spl /home/hasith/development/subleqr2/ireg_24.sym 
+vhdtdtfi -lib work /home/hasith/development/subleqr2/ireg_24.v -lang verilog -prj subleqr2 -o ireg_24.spl -module ireg_24 -template /home/hasith/development/Xilinx/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e -w ireg_24.spl /home/hasith/development/subleqr2/ireg_24.sym 
+vhdtdtfi -lib work /home/hasith/development/subleqr2/ireg_24.v -lang verilog -prj subleqr2 -o ireg_24.spl -module ireg_24 -template /home/hasith/development/Xilinx/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e -w ireg_24.spl /home/hasith/development/subleqr2/ireg_24.sym 

@@ -1,0 +1,1 @@
+sch2sym -intstyle ise -family spartan3e -w -refsym alu /home/hasith/development/subleqr2/alu.sch /home/hasith/development/subleqr2/alu.sym 

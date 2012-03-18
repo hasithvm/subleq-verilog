@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "/home/hasith/development/subleqr2/subleq_core_subleq_core_sch_tb_isim_beh.exe" -prj "/home/hasith/development/subleqr2/subleq_core_subleq_core_sch_tb_beh.prj" "work.subleq_core_subleq_core_sch_tb" "work.glbl" -v "1" 

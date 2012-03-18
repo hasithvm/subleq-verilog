@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="/home/hasith/development/subleqr2/subleq_core_subleq_core_sch_tb_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="subleq_core_subleq_core_sch_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="14" />
+   <wvobject fp_name="/subleq_core_subleq_core_sch_tb/RST" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">RST</obj_property>
+      <obj_property name="ObjectShortName">RST</obj_property>
+   </wvobject>
+   <wvobject fp_name="/subleq_core_subleq_core_sch_tb/CLK" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">CLK</obj_property>
+      <obj_property name="ObjectShortName">CLK</obj_property>
+   </wvobject>
+   <wvobject fp_name="/subleq_core_subleq_core_sch_tb/UUT/XLXI_4/MEM[0]" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">[0,7:0]</obj_property>
+      <obj_property name="ObjectShortName">MEM[0,7:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/subleq_core_subleq_core_sch_tb/UUT/XLXI_4/MEM[1]" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">[1,7:0]</obj_property>
+      <obj_property name="ObjectShortName">MEM[1,7:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/subleq_core_subleq_core_sch_tb/UUT/XLXI_4/MEM[2]" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">[2,7:0]</obj_property>
+      <obj_property name="ObjectShortName">MEM[2,7:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/subleq_core_subleq_core_sch_tb/UUT/XLXI_4/MEM[3]" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">[3,7:0]</obj_property>
+      <obj_property name="ObjectShortName">MEM[3,7:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/subleq_core_subleq_core_sch_tb/UUT/XLXI_10/instr_in" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">instr_in[23:0]</obj_property>
+      <obj_property name="ObjectShortName">instr_in[23:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/subleq_core_subleq_core_sch_tb/UUT/XLXI_4/addrA" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">addrA[7:0]</obj_property>
+      <obj_property name="ObjectShortName">addrA[7:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/subleq_core_subleq_core_sch_tb/UUT/XLXI_4/addrB" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">addrB[7:0]</obj_property>
+      <obj_property name="ObjectShortName">addrB[7:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/subleq_core_subleq_core_sch_tb/UUT/XLXI_4/dataA" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">dataA[7:0]</obj_property>
+      <obj_property name="ObjectShortName">dataA[7:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/subleq_core_subleq_core_sch_tb/UUT/XLXI_4/dataB" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">dataB[7:0]</obj_property>
+      <obj_property name="ObjectShortName">dataB[7:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/subleq_core_subleq_core_sch_tb/UUT/XLXI_20/F" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">F</obj_property>
+      <obj_property name="ObjectShortName">F</obj_property>
+   </wvobject>
+   <wvobject fp_name="/subleq_core_subleq_core_sch_tb/UUT/XLXI_20/E" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">E</obj_property>
+      <obj_property name="ObjectShortName">E</obj_property>
+   </wvobject>
+   <wvobject fp_name="/subleq_core_subleq_core_sch_tb/UUT/XLXI_10/instr_out" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">instr_out[23:0]</obj_property>
+      <obj_property name="ObjectShortName">instr_out[23:0]</obj_property>
+   </wvobject>
+</wave_config>

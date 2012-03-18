@@ -1,0 +1,2 @@
+verilog isim_temp "pc_reg.v"
+verilog isim_temp "/home/hasith/development/Xilinx/ISE_DS/ISE//verilog/src/glbl.v"

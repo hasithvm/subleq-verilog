@@ -1,0 +1,6 @@
+vhdtdtfi -lib work /home/hasith/development/subleqr2/pc_incrementer.v -lang verilog -prj subleqr2 -o pc_incrementer.spl -module pc_incrementer -template /home/hasith/development/Xilinx/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e -w pc_incrementer.spl /home/hasith/development/subleqr2/pc_incrementer.sym 
+vhdtdtfi -lang verilog -prj subleqr2 -o /home/hasith/development/subleqr2/pc_incrementer.tfi -lib work /home/hasith/development/subleqr2//pc_incrementer.v -module pc_incrementer -template /home/hasith/development/Xilinx/ISE_DS/ISE//data/tfi.tft -deleteonerror 
+vhdtdtfi -lang verilog -prj subleqr2 -o /home/hasith/development/subleqr2/pc_incrementer.tfi -lib work /home/hasith/development/subleqr2//pc_incrementer.v -module pc_incrementer -template /home/hasith/development/Xilinx/ISE_DS/ISE//data/tfi.tft -deleteonerror 
+vhdtdtfi -lib work /home/hasith/development/subleqr2/pc_incrementer.v -lang verilog -prj subleqr2 -o pc_incrementer.spl -module pc_incrementer -template /home/hasith/development/Xilinx/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e -w pc_incrementer.spl /home/hasith/development/subleqr2/pc_incrementer.sym 

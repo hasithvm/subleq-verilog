@@ -1,0 +1,10 @@
+[Inputs]
+CLK
+EN
+=PC[7:0]=
+[Outputs]
+=PCout[7:0]=
+[BiDir]
+[ATTRIBUTES]
+VeriModel pc_incrementer
+

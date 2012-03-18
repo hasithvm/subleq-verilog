@@ -1,0 +1,2 @@
+vhdtdtfi -lib work /home/hasith/development/subleqr2/pc_reg.v -lang verilog -prj subleqr2 -o pc_reg.spl -module pc_reg -template /home/hasith/development/Xilinx/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e -w pc_reg.spl /home/hasith/development/subleqr2/pc_reg.sym 
